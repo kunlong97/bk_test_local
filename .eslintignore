@@ -1,0 +1,5 @@
+# 忽略根目录下的配置文件
+.eslintrc.js
+vite.config.js
+vite.config.ts
+*.config.js
