@@ -1,0 +1,43 @@
+{
+  "ranking": {
+    "male": [
+      {
+        "id": 1,
+        "key": "001",
+        "title": "最热榜",
+        "cover": "",
+        "shortTitle": "Popular List"
+      },
+      {
+        "id": 2,
+        "key": "002",
+        "title": "畅销榜",
+        "cover": "",
+        "shortTitle": "Bestseller list"
+      },
+      {
+        "id": 3,
+        "key": "003",
+        "title": "热搜榜",
+        "cover": "",
+        "shortTitle": "Trending List"
+      },
+      {
+        "id": 4,
+        "key": "004",
+        "title": "潜力榜",
+        "cover": "",
+        "shortTitle": "Potential List"
+      }
+    ],
+    "female": [
+      {
+        "id": 1,
+        "key": "001",
+        "title": "最热榜",
+        "cover": "",
+        "shortTitle": "最热榜"
+      }
+    ]
+  }
+}

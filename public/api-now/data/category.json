@@ -1,0 +1,44 @@
+{
+  "category": {
+    "msg": "ok",
+    "code": 200,
+    "data": [
+      {
+        "id": "001",
+        "name": "Mystery & Thriller",
+        "bookCount": 239,
+        "bookCover": "/api-now/public/images/category/category1.png"
+      },
+      {
+        "id": "002",
+        "name": "Science & Fantasy",
+        "bookCount": 472,
+        "bookCover": "/api-now/public/images/category/category2.png"
+      },
+      {
+        "id": "003",
+        "name": "History",
+        "bookCount": 815,
+        "bookCover": "/api-now/public/images/category/category3.png"
+      },
+      {
+        "id": "004",
+        "name": "Romance",
+        "bookCount": 608,
+        "bookCover": "/api-now/public/images/category/category4.png"
+      },
+      {
+        "id": "005",
+        "name": "Horror",
+        "bookCount": 951,
+        "bookCover": "/api-now/public/images/category/category5.png"
+      },
+      {
+        "id": "006",
+        "name": "Literature",
+        "bookCount": 951,
+        "bookCover": "/api-now/public/images/category/category6.png"
+      }
+    ]
+  }
+}

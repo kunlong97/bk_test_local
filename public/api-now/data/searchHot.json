@@ -1,0 +1,16 @@
+{
+  "searchHot": {
+    "msg": "ok",
+    "code": 200,
+    "data": [
+      "Educated",
+      "The Picture of Dorian Gray",
+      "Little Women",
+      "Brave New World",
+      "The Hobbit",
+      "Animal Farm",
+      "The Old Man and the Sea",
+      "Moby-Dick"
+    ]
+  }
+}
