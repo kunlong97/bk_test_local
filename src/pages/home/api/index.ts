@@ -1,5 +1,5 @@
 const api = {
-  getHomeData: '/headerCarousel',
+  getHomeData: '/db.json',
 };
 
 export default api;

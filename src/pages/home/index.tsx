@@ -15,8 +15,9 @@ import Ranking from '@/pages/home/components/ranking';
 
 export default function Home() {
 
-  //获取轮播图数据
+  // 获取轮播图数据
   const { data, error } = useRequest<IHomeData>({ url: api.getHomeData });
+  console.log(data);
 
   if (error) {
     console.log('错误');
