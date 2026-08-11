@@ -1,5 +1,5 @@
 const api = {
-   getBookList: (key:string) => `/bookList_${key}`
+   getBookList: (key:string) => `/api-now/data/bookList_${key}.json`
 }
 
 export default api;
